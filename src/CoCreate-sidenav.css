@@ -2,6 +2,7 @@
 .cocreate-sidenav {
 	position: fixed;
 	height: 100%;
+	width: 0px;
 	/*background-color: #283747;*/
 	/*color: white;*/
 	display:block;
@@ -21,7 +22,7 @@
 	user-select: none;          /* Non-prefixed version, currently not supported by any browser */
 }
 .resizeHandler {
-	width: 10px;
+	width: 5px;
 	height: 100%;
 	cursor: col-resize;
 	position:absolute;
@@ -29,8 +30,8 @@
 	bottom: 0;
 }
 .resizeHandler:hover {
-   background-color:#000000;
-	opacity: .3;
+ /*  background-color:#000000;*/
+	/*opacity: .1;*/
 
 }
  .cocreate-sidenav.sidenav-right {
