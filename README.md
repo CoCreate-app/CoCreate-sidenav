@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-boilerplate) 
 ![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-boilerplate/help%20wanted)
 
-# CoCreate-sidenav Here
+# CoCreate-sidenav
 A simple HTML5 and pure javascript component. Easy configuration using data-attributes and highly styleable.
 
 ![CoCreate](https://cdn.cocreate.app/logo.png)
