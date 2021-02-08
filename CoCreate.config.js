@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "602098d53c260207bf49cac6",
             key: "html",
             data:{
                 name: "Sidenav Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "602098d53c260207bf49cac5",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "602098d53c260207bf49cac6",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/sidenav",
